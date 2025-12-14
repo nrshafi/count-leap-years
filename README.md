@@ -17,7 +17,7 @@ This Bash shell script identifies all leap years within a user-defined range and
 
 
 
-## ▶️ How to Run
+## How to Run
 ```bash
 chmod +x main.sh
 ./main.sh
